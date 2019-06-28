@@ -1,0 +1,67 @@
+{
+  "posts": [{
+    "image": "https://placekitten.com/300/300",
+    "numberOfLikes": 15,
+    "user": {
+      "avatar": "https://placekitten.com/30/30",
+      "name": "Marky G"
+    },
+    "comments": [
+      {
+        "commentText": "Today marks my very last day looking at cats",
+        "user": {
+          "name": "Marky G"
+        }
+      },
+      {
+        "commentText": "First Post!",
+        "user": {
+          "name": "Emily" 
+        }
+      }
+    ]
+  },
+  {
+    "image": "https://placeimg.com/300/300/arch/sepia",
+    "numberOfLikes": 15,
+    "user": {
+      "avatar": "https://placeimg.com/30/30/arch/sepia",
+      "name": "Marky G"
+    },
+    "comments": []
+  },
+  {
+    "image": "https://via.placeholder.com/300",
+    "numberOfLikes": 10,
+    "user": {
+      "avatar": "https://via.placeholder.com/30",
+      "name": "Emily"
+    },
+    "comments": [
+      {
+        "commentText": "Hello world!",
+        "user": {
+          "name": "Julia"
+        }
+      },
+      {
+        "commentText": "I like turtles",
+        "user": {
+          "name": "Turtle Boy"
+        }
+      },
+      {
+        "commentText": "Where is the exit?",
+        "user": {
+          "name": "The Dog Lady"
+        }
+      },
+      {
+        "commentText": "My Dog steals the chicken from people",
+        "user": {
+          "name": "The Sewing Lady"
+        }
+      }
+    ]
+  }]
+}
